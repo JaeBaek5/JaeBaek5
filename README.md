@@ -1,4 +1,4 @@
-# 안녕하세요 👋, 저는 JB입니다
+# 안녕하세요 👋, JB입니다
 
 **농업 AI 연구자 & 스타트업 창업자 @ OLM**
 
@@ -36,6 +36,17 @@
 
 ---
 
+### ✍️ ink *(개인 프로젝트)*
+> 필압·기울기 메타데이터를 활용한 고품질 필기 렌더링 앱
+
+Catmull-Rom → Cubic Bézier 변환 및 속도 적응형 EMA 스무딩으로 자연스러운 필기감을 구현합니다.
+
+- Flutter / Dart 기반 크로스플랫폼
+- 필압 기반 가변폭 폴리곤 렌더링
+- 빠른 필기 시 각진 획 보정 알고리즘
+
+---
+
 ### 🐾 도닥메이트 *(OLM — 개발 중)*
 > 반려동물 위탁 시설과 보호자를 연결하는 B2B2C 스마트 펫케어 플랫폼
 
@@ -60,7 +71,8 @@ SHA-256 / AES-256 기반 암호화 아키텍처로 사용자 익명성을 보장
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -85,16 +97,17 @@ SHA-256 / AES-256 기반 암호화 아키텍처로 사용자 익명성을 보장
 
 ## 📫 연락처
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ojaebaek)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaeBaek5)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaeBaek5&show_icons=true&theme=default&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBaek5&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey"/>
+  <img src="https://komarev.com/ghpvc/?username=JaeBaek5&style=flat-square&color=grey"/>
 </p>
