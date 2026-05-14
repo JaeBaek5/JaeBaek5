@@ -61,20 +61,20 @@ NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모
 
 | Repository | Description |
 |---|---|
-| [JaeBaek5](https://github.com/JaeBaek5/JaeBaek5) | GitHub profile README repository. |
-| [agri-r-practice](https://github.com/JaeBaek5/agri-r-practice) | University coursework in R programming and web programming practice. |
-| [tomato-ml](https://github.com/JaeBaek5/tomato-ml) | Tomato growth-stage classification and machine learning experiments. |
-| [unity-shader-experiments](https://github.com/JaeBaek5/unity-shader-experiments) | Unity practice project and shader experiments. |
-| [systems-programming](https://github.com/JaeBaek5/systems-programming) | Assembly language and systems programming practice. |
-| [nong_ai](https://github.com/JaeBaek5/nong_ai) | Edge AI application for on-device inference. |
+| [JaeBaek5](https://github.com/JaeBaek5/JaeBaek5) | GitHub 프로필 README 저장소입니다. |
+| [agri-r-practice](https://github.com/JaeBaek5/agri-r-practice) | R 언어와 웹프로그래밍 대학교 실습 자료를 정리한 저장소입니다. |
+| [tomato-ml](https://github.com/JaeBaek5/tomato-ml) | 토마토 생육 단계 분류와 머신러닝 실험을 정리한 저장소입니다. |
+| [unity-shader-experiments](https://github.com/JaeBaek5/unity-shader-experiments) | Unity 실습과 셰이더 실험을 정리한 저장소입니다. |
+| [systems-programming](https://github.com/JaeBaek5/systems-programming) | 어셈블리 언어와 시스템 프로그래밍 실습 자료를 정리한 저장소입니다. |
+| [nong_ai](https://github.com/JaeBaek5/nong_ai) | 엣지 디바이스용 인공지능 추론 앱 프로젝트입니다. |
 
 ### Private repositories
 
 | Repository | Description |
 |---|---|
-| `ink` | Handwriting rendering app using pressure and tilt metadata. |
-| `dodak_web` | Web service for the Dodak pet-care platform. |
-| `dodak` | Mobile app for the Dodak pet-care platform. |
+| `ink` | 필압과 기울기 메타데이터를 활용한 필기 렌더링 앱입니다. |
+| `dodak_web` | 도닥 펫케어 플랫폼의 웹 서비스 저장소입니다. |
+| `dodak` | 도닥 펫케어 플랫폼의 모바일 앱 저장소입니다. |
 
 ---
 
