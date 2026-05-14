@@ -7,7 +7,7 @@
 
 - **농업 AI**
   - 작물 생육 단계 분류 및 표현형 모델링
-  - 시뮬레이션 기반 합성 데이터 생성 (AgriSim)
+  - 시뮬레이션 기반 합성 데이터 생성
   - 계절적 데이터 불균형 문제 해결
 
 - **컴퓨터 비전 & 딥러닝**
@@ -15,49 +15,14 @@
   - 도메인 희소 환경에서의 Few-shot / Transfer Learning
 
 - **AI 시스템 & 인프라**
-  - 엣지 디바이스 추론 (Raspberry Pi 홈서버 운영)
-  - LLM API 연동 (FastAPI 프록시 아키텍처 설계)
+  - 엣지 디바이스 추론
+  - LLM API 연동 및 FastAPI 기반 백엔드 설계
 
 ---
 
-## 🔭 프로젝트
+## 🔭 GitHub 프로젝트
 
-### 🌿 AgriSim *(연구 프로젝트)*
-> 계절적 제약을 넘어선 시뮬레이션 기반 작물 생육 단계 분류 학습
-
-자율주행 시뮬레이터(CARLA)에서 영감을 받아, 생물학적 특성으로 인해 발생하는 생육 전환기 데이터 불균형 문제를 합성 데이터 생성으로 해결하는 프레임워크입니다. NeurIPS / AAAI 투고를 목표로 연구 중입니다.
-
-- 작물 시뮬레이터(TOMGRO)를 활용한 합성 데이터 생성
-- 3D Gaussian Splatting 기반 전환기 이미지 증강
-- 토마토 생육 단계 분류 파이프라인
-
----
-
-### ✍️ ink *(개인 프로젝트)*
-> 필압·기울기 메타데이터를 활용한 고품질 필기 렌더링 앱
-
-Catmull-Rom → Cubic Bézier 변환 및 속도 적응형 EMA 스무딩으로 자연스러운 필기감을 구현합니다.
-
-- Flutter / Dart 기반 크로스플랫폼
-- 필압 기반 가변폭 폴리곤 렌더링
-- 빠른 필기 시 각진 획 보정 알고리즘
-
----
-
-### 🐾 도닥메이트 *(OLM — 개발 중)*
-> 반려동물 위탁 시설과 보호자를 연결하는 B2B2C 스마트 펫케어 플랫폼
-
-NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모니터링하고, 시설-보호자 간 커뮤니케이션을 자동화합니다.
-
-- Flutter 기반 크로스플랫폼 앱
-- NFC/BLE 스마트 태그 연동
-- 토스페이먼츠 PG 결제 시스템 통합
-
----
-
-## 📁 저장소 소개
-
-### Public repositories
+### 공개 저장소
 
 | Repository | Description |
 |---|---|
@@ -68,13 +33,13 @@ NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모
 | [systems-programming](https://github.com/JaeBaek5/systems-programming) | 어셈블리 언어와 시스템 프로그래밍 실습 자료를 정리한 저장소입니다. |
 | [nong_ai](https://github.com/JaeBaek5/nong_ai) | 엣지 디바이스용 인공지능 추론 앱 프로젝트입니다. |
 
-### Private repositories
+### 비공개 저장소
 
 | Repository | Description |
 |---|---|
-| `ink` | 필압과 기울기 메타데이터를 활용한 필기 렌더링 앱입니다. |
-| `dodak_web` | 도닥 펫케어 플랫폼의 웹 서비스 저장소입니다. |
-| `dodak` | 도닥 펫케어 플랫폼의 모바일 앱 저장소입니다. |
+| ink | 필압과 기울기 메타데이터를 활용한 필기 렌더링 앱입니다. |
+| dodak_web | 도닥 펫케어 플랫폼의 웹 서비스 저장소입니다. |
+| dodak | 도닥 펫케어 플랫폼의 모바일 앱 저장소입니다. |
 
 ---
 
@@ -103,8 +68,7 @@ NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모
 
 ## 🏫 학력 & 소속
 
-- 🎓 **국립순천대학교** 재학 중 — 농업 AI 연구
-- 🦎 **OLM** 창업자 — 앱 & AI 개발 스타트업 (전남 순천)
+- 🎓 **순천대학교 인공지능공학부** 재학 중
 
 ---
 
@@ -116,11 +80,6 @@ NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeBaek5&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBaek5&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaeBaek5&style=flat-square&color=grey"/>
+  <b>Profile Views</b><br/>
+  <img src="https://komarev.com/ghpvc/?username=JaeBaek5&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
