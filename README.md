@@ -63,9 +63,9 @@ NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모
 | [unity-shader-experiments](https://github.com/JaeBaek5/unity-shader-experiments) | Unity practice project. |
 | [systems-programming](https://github.com/JaeBaek5/systems-programming) | Assembly language practice. |
 | [nong_ai](https://github.com/JaeBaek5/nong_ai) | Edge AI application for on-device inference. |
-| \`ink\` | Private repository. |
-| \`dodak_web\` | Private repository. |
-| \`dodak\` | Private repository. |
+| `ink` | Private repository. |
+| `dodak_web` | Private repository. |
+| `dodak` | Private repository. |
 
 ---
 
