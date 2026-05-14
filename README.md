@@ -19,7 +19,7 @@
 
 ---
 
-### ✨ 저의 장점들
+### 저의 장점들
 
 - ![Research](https://img.shields.io/badge/Research-2E7D32?style=flat-square) **농업 AI 연구 지향**  
   작물 생육 단계 분류, 합성 데이터, 컴퓨터 비전 기반 농업 문제 해결에 관심을 두고 실험을 이어가고 있습니다.
@@ -35,7 +35,7 @@
 
 ---
 
-## 📌 GitHub 프로젝트
+## GitHub 프로젝트
 
 ### 공개 저장소
 
@@ -58,7 +58,11 @@
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaeBaek5&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JaeBaek5&theme=default&hide_border=true" alt="GitHub Streak"/>
@@ -70,7 +74,7 @@
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 ### Languages
 
@@ -98,13 +102,13 @@
 
 ---
 
-## 🎓 소속
+## 소속
 
 - **순천대학교 인공지능공학부** 재학 중
 
 ---
 
-## 📫 연락처
+## 연락처
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ojaebaek)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaeBaek5)
