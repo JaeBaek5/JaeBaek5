@@ -15,7 +15,7 @@
 저는 순천대학교 인공지능공학부에서 인공지능과 소프트웨어 개발을 공부하고 있습니다.  
 농업 AI, 컴퓨터 비전, 엣지 디바이스 추론, Flutter 기반 앱 개발에 관심이 있으며, 연구 아이디어를 실제 동작하는 서비스와 실험 코드로 연결하는 것을 좋아합니다.
 
-현재는 작물 생육 단계 분류, 토마토 생육 데이터 기반 머신러닝, 엣지 디바이스용 AI 앱, 반려동물 케어 플랫폼, 필기 렌더링 앱 등을 중심으로 프로젝트를 정리하고 있습니다.
+현재는 작물 생육 단계 분류, 토마토 생육 데이터 기반 머신러닝, 엣지 디바이스용 AI 앱, NoSQL/OpenData DBMS 실습, 반려동물 케어 플랫폼, 필기 렌더링 앱 등을 중심으로 프로젝트를 정리하고 있습니다.
 
 ---
 
@@ -75,6 +75,7 @@
 ![Agricultural AI](https://img.shields.io/badge/Agricultural_AI-2E7D32?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-1565C0?style=flat-square)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-6A1B9A?style=flat-square)
+![OpenData DBMS](https://img.shields.io/badge/OpenData_DBMS-0F766E?style=flat-square)
 ![Synthetic Data](https://img.shields.io/badge/Synthetic_Data-111111?style=flat-square)
 
 ---
