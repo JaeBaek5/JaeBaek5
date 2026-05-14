@@ -35,29 +35,6 @@
 
 ---
 
-## GitHub 프로젝트
-
-### 공개 저장소
-
-| Project | Tech | Description |
-|---|---|---|
-| [**JaeBaek5**](https://github.com/JaeBaek5/JaeBaek5) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github&logoColor=white) | GitHub 프로필 README 저장소입니다. |
-| [**agri-r-practice**](https://github.com/JaeBaek5/agri-r-practice) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Coursework](https://img.shields.io/badge/Coursework-455A64?style=flat-square) | R 언어와 웹프로그래밍 대학교 실습 자료를 정리한 저장소입니다. |
-| [**tomato-ml**](https://github.com/JaeBaek5/tomato-ml) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![CV](https://img.shields.io/badge/Computer_Vision-1565C0?style=flat-square) | 토마토 생육 단계 분류와 머신러닝 실험을 정리한 저장소입니다. |
-| [**unity-shader-experiments**](https://github.com/JaeBaek5/unity-shader-experiments) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![ShaderLab](https://img.shields.io/badge/ShaderLab-222222?style=flat-square) | Unity 실습과 셰이더 실험을 정리한 저장소입니다. |
-| [**systems-programming**](https://github.com/JaeBaek5/systems-programming) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square) ![Systems](https://img.shields.io/badge/Systems-263238?style=flat-square) | 어셈블리 언어와 시스템 프로그래밍 실습 자료를 정리한 저장소입니다. |
-| [**nong_ai**](https://github.com/JaeBaek5/nong_ai) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Edge AI](https://img.shields.io/badge/Edge_AI-6A1B9A?style=flat-square) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) | 엣지 디바이스용 인공지능 추론 앱 프로젝트입니다. |
-
-### 비공개 저장소
-
-| Project | Tech | Description |
-|---|---|---|
-| **ink** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Rendering](https://img.shields.io/badge/Rendering-2C3E50?style=flat-square) | 필압과 기울기 메타데이터를 활용한 필기 렌더링 앱입니다. |
-| **dodak_web** | ![Web](https://img.shields.io/badge/Web_Service-0F766E?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) | 도닥 펫케어 플랫폼의 웹 서비스 저장소입니다. |
-| **dodak** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile_App-1976D2?style=flat-square) | 도닥 펫케어 플랫폼의 모바일 앱 저장소입니다. |
-
----
-
 ## GitHub Activity
 
 <p align="center">
@@ -102,13 +79,10 @@
 
 ---
 
-## 소속
+## Private Projects
 
-- **순천대학교 인공지능공학부** 재학 중
-
----
-
-## 연락처
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ojaebaek)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaeBaek5)
+| Repository | Tech | Description |
+|---|---|---|
+| **ink** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Rendering](https://img.shields.io/badge/Rendering-2C3E50?style=flat-square) | 필압과 기울기 메타데이터를 활용한 필기 렌더링 앱입니다. |
+| **dodak_web** | ![Web](https://img.shields.io/badge/Web_Service-0F766E?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) | 도닥 펫케어 플랫폼의 웹 서비스 저장소입니다. |
+| **dodak** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile_App-1976D2?style=flat-square) | 도닥 펫케어 플랫폼의 모바일 앱 저장소입니다. |
