@@ -55,6 +55,20 @@ NFC/BLE 스마트 태그를 활용하여 반려동물의 실시간 상태를 모
 
 ---
 
+## 📁 저장소 설명
+
+| Repository | Description |
+|---|---|
+| `agri-r-practice` | University coursework in R programming and web programming practice. |
+| `unity-shader-experiments` | Unity practice project. |
+| `systems-programming` | Assembly language practice. |
+| `nong_ai` | Edge AI application for on-device inference. |
+| `ink` | Private repository. |
+| `dodak_web` | Private repository. |
+| `dodak` | Private repository. |
+
+---
+
 ## 🛠️ 기술 스택
 
 ### Languages
