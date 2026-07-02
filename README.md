@@ -16,7 +16,7 @@
 
 ---
 
-## 🪙 About Me
+## 🪙 소개
 
 ```yaml
 Name     : 오재백 (Jaebaek Oh)
@@ -30,20 +30,20 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 ---
 
-## 🪙 Research Interests
+## 🪙 연구 관심사
 
-![Agricultural AI](https://img.shields.io/badge/Agricultural_AI-CEB15E?style=flat-square&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-D8B74B?style=flat-square&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-CEB15E?style=flat-square&logoColor=white)
-![Applied ML](https://img.shields.io/badge/Applied_Machine_Learning-D8B74B?style=flat-square&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-CEB15E?style=flat-square&logoColor=white)
-![Cloud AI](https://img.shields.io/badge/Cloud_AI-D8B74B?style=flat-square&logoColor=white)
+![농업 AI](https://img.shields.io/badge/농업_AI-CEB15E?style=flat-square&logoColor=white)
+![컴퓨터 비전](https://img.shields.io/badge/컴퓨터_비전-D8B74B?style=flat-square&logoColor=white)
+![엣지 AI](https://img.shields.io/badge/엣지_AI-CEB15E?style=flat-square&logoColor=white)
+![응용 머신러닝](https://img.shields.io/badge/응용_머신러닝-D8B74B?style=flat-square&logoColor=white)
+![에이전틱 AI](https://img.shields.io/badge/에이전틱_AI-CEB15E?style=flat-square&logoColor=white)
+![클라우드 AI](https://img.shields.io/badge/클라우드_AI-D8B74B?style=flat-square&logoColor=white)
 
 ---
 
-## 🪙 Tech Stack
+## 🪙 기술 스택
 
-**Cloud & AI**
+**클라우드 & AI**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
@@ -52,7 +52,7 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![API_Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 
-**Languages**
+**언어**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -60,7 +60,7 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Frameworks & Tools**
+**프레임워크 & 도구**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -74,7 +74,7 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 ---
 
-## 🪙 GitHub Stats
+## 🪙 GitHub 통계
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 ---
 
-## 🪙 Selected Projects
+## 🪙 주요 프로젝트
 
 | 프로젝트 | 설명 | 분야 |
 |---------|------|------|
