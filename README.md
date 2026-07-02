@@ -45,31 +45,31 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 **Cloud & AI**
 
-![AWS](https://img.shields.io/badge/AWS-C9A84C?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-D4AF37?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-C9A84C?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-D4AF37?style=flat-square&logo=amazons3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-C9A84C?style=flat-square&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-D4AF37?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-C9A84C?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-D4AF37?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-C9A84C?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-D4AF37?style=flat-square&logo=amazons3&logoColor=FF9900)
+![CloudFront](https://img.shields.io/badge/CloudFront-C9A84C?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![API Gateway](https://img.shields.io/badge/API_Gateway-D4AF37?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-C9A84C?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=flat-square&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-C9A84C?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-C9A84C?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-D4AF37?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C9A84C?style=flat-square&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-C9A84C?style=flat-square&logo=dart&logoColor=0175C2)
+![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=mysql&logoColor=4479A1)
+![C](https://img.shields.io/badge/C-C9A84C?style=flat-square&logo=c&logoColor=A8B9CC)
+![R](https://img.shields.io/badge/R-D4AF37?style=flat-square&logo=r&logoColor=276DC3)
 
 **Frameworks & Tools**
 
-![Flutter](https://img.shields.io/badge/Flutter-C9A84C?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-D4AF37?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-C9A84C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-C9A84C?style=flat-square&logo=git&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-D4AF37?style=flat-square&logo=mariadb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C9A84C?style=flat-square&logo=raspberrypi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-C9A84C?style=flat-square&logo=flutter&logoColor=02569B)
+![FastAPI](https://img.shields.io/badge/FastAPI-D4AF37?style=flat-square&logo=fastapi&logoColor=009688)
+![PyTorch](https://img.shields.io/badge/PyTorch-C9A84C?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-C9A84C?style=flat-square&logo=git&logoColor=F05032)
+![MariaDB](https://img.shields.io/badge/MariaDB-D4AF37?style=flat-square&logo=mariadb&logoColor=003545)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C9A84C?style=flat-square&logo=raspberrypi&logoColor=A22846)
 
 ---
 
