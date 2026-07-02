@@ -32,12 +32,12 @@
 
 ## 🪙 연구 관심사
 
-![농업 AI](https://img.shields.io/badge/농업_AI-CEB15E?style=flat-square&logoColor=white)
-![컴퓨터 비전](https://img.shields.io/badge/컴퓨터_비전-D8B74B?style=flat-square&logoColor=white)
-![엣지 AI](https://img.shields.io/badge/엣지_AI-CEB15E?style=flat-square&logoColor=white)
-![응용 머신러닝](https://img.shields.io/badge/응용_머신러닝-D8B74B?style=flat-square&logoColor=white)
-![에이전틱 AI](https://img.shields.io/badge/에이전틱_AI-CEB15E?style=flat-square&logoColor=white)
-![클라우드 AI](https://img.shields.io/badge/클라우드_AI-D8B74B?style=flat-square&logoColor=white)
+![Agricultural AI](https://img.shields.io/badge/Agricultural_AI-CEB15E?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-D8B74B?style=flat-square&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-CEB15E?style=flat-square&logoColor=white)
+![Applied ML](https://img.shields.io/badge/Applied_ML-D8B74B?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-CEB15E?style=flat-square&logoColor=white)
+![Cloud AI](https://img.shields.io/badge/Cloud_AI-D8B74B?style=flat-square&logoColor=white)
 
 ---
 
