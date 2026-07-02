@@ -54,24 +54,13 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-C9A84C?style=flat-square&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-C9A84C?style=flat-square&logo=dart&logoColor=0175C2)
-![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=mysql&logoColor=4479A1)
-![C](https://img.shields.io/badge/C-C9A84C?style=flat-square&logo=c&logoColor=A8B9CC)
-![R](https://img.shields.io/badge/R-D4AF37?style=flat-square&logo=r&logoColor=276DC3)
+[![skillicons](https://skillicons.dev/icons?i=python,js,dart,c,r&theme=light)](https://skillicons.dev)
 
 **Frameworks & Tools**
 
-![Flutter](https://img.shields.io/badge/Flutter-C9A84C?style=flat-square&logo=flutter&logoColor=02569B)
-![FastAPI](https://img.shields.io/badge/FastAPI-D4AF37?style=flat-square&logo=fastapi&logoColor=009688)
-![PyTorch](https://img.shields.io/badge/PyTorch-C9A84C?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Firebase](https://img.shields.io/badge/Firebase-D4AF37?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-C9A84C?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-C9A84C?style=flat-square&logo=git&logoColor=F05032)
+[![skillicons](https://skillicons.dev/icons?i=flutter,fastapi,pytorch,firebase,supabase,docker,git,raspberrypi&theme=light)](https://skillicons.dev)
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-D4AF37?style=flat-square&logo=mariadb&logoColor=003545)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C9A84C?style=flat-square&logo=raspberrypi&logoColor=A22846)
 
 ---
 
