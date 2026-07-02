@@ -101,7 +101,7 @@
 | **[unity-shader-experiments](https://github.com/JaeBaek5/unity-shader-experiments)** | Unity 셰이더 실험 및 그래픽스 실습 | ShaderLab | 그래픽스 |
 | **dodak** *(private)* | 반려동물 케어 플랫폼 모바일 앱 | Dart / Flutter | 모바일 |
 | **ink** *(private)* | 필압·기울기 메타데이터 활용 필기 렌더링 앱 | Dart / Flutter | 모바일 |
-| **nong_ai** *(private)* | 농업 AI 프로젝트 | - | 농업 AI |
+| **nong_ai** *(private)* | 토마토 생육 단계 분류 모델 모바일 앱 | Python / Flutter | 농업 AI |
 
 ---
 
