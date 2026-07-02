@@ -77,8 +77,8 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaeBaek5&show_icons=true&theme=default&title_color=C9A84C&icon_color=D4AF37&text_color=333&bg_color=FDFAF2&border_color=C9A84C&hide_border=false"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBaek5&layout=compact&title_color=C9A84C&text_color=333333&bg_color=FDFAF2&border_color=C9A84C&langs_count=6"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeBaek5&show_icons=true&title_color=C9A84C&icon_color=D4AF37&text_color=333333&bg_color=FDFAF2&border_color=C9A84C"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JaeBaek5&layout=compact&title_color=C9A84C&text_color=333333&bg_color=FDFAF2&border_color=C9A84C&langs_count=6"/>
 
 <br/>
 
