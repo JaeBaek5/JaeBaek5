@@ -1,115 +1,76 @@
-# 안녕하세요, AI와 앱 개발을 공부하는 오재백입니다.
+# 안녕하세요, 오재백입니다.
 
-<p align="center">
-  <b>순천대학교 인공지능공학부 · Agricultural AI · Edge AI · Flutter App Development</b>
-</p>
+순천대학교 인공지능공학부에서 인공지능과 소프트웨어 개발을 공부하고 있습니다.  
+저는 실제 환경의 문제를 데이터와 모델링으로 해석하고, 이를 동작하는 시스템으로 구현하는 과정에 관심이 있습니다.  
+특히 **Agricultural AI, Computer Vision, Edge AI, Applied Machine Learning, AI 기반 서비스 설계**를 중심으로 학습과 실험을 이어가고 있습니다.
 
-<p align="center">
-  <a href="https://github.com/JaeBaek5"><img src="https://img.shields.io/badge/GitHub-JaeBaek5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://velog.io/@ojaebaek"><img src="https://img.shields.io/badge/DevBlog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/></a>
-  <img src="https://komarev.com/ghpvc/?username=JaeBaek5&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-</p>
+현재는 작물 생육 단계 분류, 토마토 생육 데이터 기반 머신러닝, 엣지 디바이스 환경에서의 AI 추론, 모바일 애플리케이션 개발, 자연어 기반 추천 시스템, OpenData/NoSQL 실습 등 다양한 주제를 프로젝트와 저장소 단위로 정리하고 있습니다.  
+단순히 모델 성능을 확인하는 데 그치지 않고, **문제 정의, 데이터 전처리, 실험 구조 설계, 그리고 실제 서비스 형태의 구현까지 연결하는 과정**에 관심이 있습니다.
 
 ---
 
-저는 순천대학교 인공지능공학부에서 인공지능과 소프트웨어 개발을 공부하고 있습니다.  
-농업 AI, 컴퓨터 비전, 엣지 디바이스 추론, Flutter 기반 앱 개발, AI Agent 웹 서비스에 관심이 있으며, 연구 아이디어를 실제 동작하는 서비스와 실험 코드로 연결하는 것을 좋아합니다.
+## Research Interests
+- Agricultural AI
+- Computer Vision
+- Edge AI
+- Applied Machine Learning
+- AI-based Service Design
 
-현재는 작물 생육 단계 분류, 토마토 생육 데이터 기반 머신러닝, 엣지 디바이스용 AI 앱, NoSQL/OpenData DBMS 실습, 반려동물 케어 플랫폼, 필기 렌더링 앱, OpenRouter 기반 AI Agent 식당 추천 웹앱 등을 중심으로 프로젝트를 정리하고 있습니다.
-
----
-
-### 저의 장점들
-
-- ![Research](https://img.shields.io/badge/Research-2E7D32?style=flat-square) **농업 AI 연구 지향**  
-  작물 생육 단계 분류, 합성 데이터, 컴퓨터 비전 기반 농업 문제 해결에 관심을 두고 실험을 이어가고 있습니다.
-
-- ![Edge AI](https://img.shields.io/badge/Edge_AI-6A1B9A?style=flat-square) **엣지 디바이스 추론 경험**  
-  Raspberry Pi 같은 제한된 환경에서 AI 모델을 동작시키는 앱과 시스템 구조를 탐구합니다.
-
-- ![App](https://img.shields.io/badge/App_Development-02569B?style=flat-square) **앱 개발과 서비스 구현**  
-  Flutter 기반 모바일 앱과 웹/백엔드 서비스를 함께 다루며, 아이디어를 실제 사용 가능한 형태로 만드는 것을 중요하게 생각합니다.
-
-- ![AI Agent](https://img.shields.io/badge/AI_Agent-111827?style=flat-square) **AI Agent 서비스 설계**
-  OpenRouter 기반 모델 라우팅, 자연어 조건 추출, 근거 기반 추천 이유 생성처럼 LLM을 서비스 흐름 안에서 안전하게 쓰는 구조를 실험합니다.
-
-- ![Learning](https://img.shields.io/badge/Learning-455A64?style=flat-square) **실습 기반 학습**  
-  대학교 수업, 개인 실험, 프로젝트 코드를 저장소 단위로 정리하며 기술 흐름을 꾸준히 기록합니다.
+## Current Focus
+- 작물 및 생육 데이터 기반의 분류·예측 문제 탐구
+- 실제 환경을 고려한 경량 모델 및 엣지 추론 구조 실험
+- 데이터, 모델, 서비스 구현을 연결하는 응용 AI 시스템 설계
+- 자연어 인터페이스와 추천 구조를 포함한 사용자 지향형 AI 서비스 탐색
 
 ---
 
-## GitHub Activity
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaeBaek5&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-</p>
+### Agricultural AI / Machine Learning
+- **[tomato-ml](https://github.com/JaeBaek5/tomato-ml)**  
+  토마토 생육 단계 분류와 머신러닝 실험을 정리한 저장소입니다.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JaeBaek5&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+### AI Service / Recommendation System
+- **[Coding_Marathon](https://github.com/JaeBaek5/Coding_Marathon)**  
+  자연어 요청과 위치 정보를 바탕으로 조건을 추출하고, 경로·예산·리뷰 근거를 조합해 식당을 추천하는 AI Agent 웹앱입니다.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeBaek5&theme=github" alt="GitHub Profile Summary"/>
-</p>
+### Mobile / Applied App Development
+- **Private Project: dodak**  
+  반려동물 케어 플랫폼의 모바일 앱 프로젝트입니다.
+
+- **Private Project: ink**  
+  필압과 기울기 메타데이터를 활용한 필기 렌더링 앱 프로젝트입니다.
+
+### Web / Backend
+- **Private Project: dodak_web**  
+  반려동물 케어 플랫폼의 웹 서비스 저장소입니다.
+
+### Data / DBMS Practice
+- **[nosql-study](https://github.com/JaeBaek5/nosql-study)**  
+  NoSQL 수업 과제와 순천시 신호등 OpenData DBMS 실습 자료를 정리한 저장소입니다.
+
+### Systems / Low-level Practice
+- **[systems-programming](https://github.com/JaeBaek5/systems-programming)**  
+  어셈블리 언어와 시스템 프로그래밍 실습 자료를 정리한 저장소입니다.
 
 ---
 
-## 기술 스택
+## Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+`Python` `JavaScript` `Dart` `SQL` `C` `R`
 
 ### Frameworks & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-### Interests
-
-![Agricultural AI](https://img.shields.io/badge/Agricultural_AI-2E7D32?style=flat-square)
-![AI Agent](https://img.shields.io/badge/AI_Agent-111827?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6D28D9?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1565C0?style=flat-square)
-![Edge AI](https://img.shields.io/badge/Edge_AI-6A1B9A?style=flat-square)
-![OpenData DBMS](https://img.shields.io/badge/OpenData_DBMS-0F766E?style=flat-square)
-![Synthetic Data](https://img.shields.io/badge/Synthetic_Data-111111?style=flat-square)
+`Flutter` `Svelte` `Express` `FastAPI` `PyTorch` `MariaDB` `Raspberry Pi` `Unity`
 
 ---
 
-## Featured Projects
-
-| Repository | Tech | Description |
-|---|---|---|
-| [**Coding_Marathon**](https://github.com/JaeBaek5/Coding_Marathon) | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6D28D9?style=flat-square) ![AI Agent](https://img.shields.io/badge/AI_Agent-111827?style=flat-square) | **머먹(Mumuk)**: 자연어 요청과 위치 정보를 바탕으로 식사 조건을 추출하고, 경로·예산·리뷰 근거를 조합해 한 번에 하나씩 식당을 추천하는 AI Agent 웹앱입니다. |
-
-### Coding_Marathon Highlights
-
-- `Vite + Svelte 5` 클라이언트와 `Express` 백엔드로 구성한 모바일 우선 웹앱
-- `Orchestrator -> Aleph -> Bet -> Gimel` 흐름의 bounded multi-agent 추천 구조
-- OpenRouter/OpenAI-compatible LLM client 기반 모델 라우팅 실험
-- 자연어 식사 요청을 구조화된 슬롯으로 변환하고, 부족한 조건은 follow-up 질문으로 보완
-- 후보 검색, 경로 계산, 필터링, 랭킹은 deterministic code로 처리
-- Naver Place POC를 통해 리뷰·사진·메뉴 추출과 grounded recommendation 이유 생성 검증
-- SCNU 코딩 마라톤 발표 대비 문서와 데모 시나리오 정리
+## Links
+- GitHub: [JaeBaek5](https://github.com/JaeBaek5)
+- Velog: [ojaebaek](https://velog.io/@ojaebaek)
 
 ---
 
-## Private Projects
-
-| Repository | Tech | Description |
-|---|---|---|
-| **ink** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Rendering](https://img.shields.io/badge/Rendering-2C3E50?style=flat-square) | 필압과 기울기 메타데이터를 활용한 필기 렌더링 앱입니다. |
-| **dodak_web** | ![Web](https://img.shields.io/badge/Web_Service-0F766E?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) | 도닥 펫케어 플랫폼의 웹 서비스 저장소입니다. |
-| **dodak** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile_App-1976D2?style=flat-square) | 도닥 펫케어 플랫폼의 모바일 앱 저장소입니다. |
+## Notes
+이 프로필은 수업, 실습, 개인 프로젝트, 그리고 관심 연구 주제를 함께 정리하는 공간입니다.  
+앞으로도 데이터 기반 문제 해결과 실제 환경에서 동작하는 AI 시스템 구현 경험을 지속적으로 축적해 나가고자 합니다.
