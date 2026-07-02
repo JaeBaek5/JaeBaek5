@@ -1,76 +1,108 @@
-# 안녕하세요, 오재백입니다.
+<div align="center">
 
-순천대학교 인공지능공학부에서 인공지능과 소프트웨어 개발을 공부하고 있습니다.  
-저는 실제 환경의 문제를 데이터와 모델링으로 해석하고, 이를 동작하는 시스템으로 구현하는 과정에 관심이 있습니다.  
-특히 **Agricultural AI, Computer Vision, Edge AI, Applied Machine Learning, AI 기반 서비스 설계**를 중심으로 학습과 실험을 이어가고 있습니다.
+<img src="https://github.com/JaeBaek5.png" width="120" style="border-radius:50%"/>
 
-현재는 작물 생육 단계 분류, 토마토 생육 데이터 기반 머신러닝, 엣지 디바이스 환경에서의 AI 추론, 모바일 애플리케이션 개발, 자연어 기반 추천 시스템, OpenData/NoSQL 실습 등 다양한 주제를 프로젝트와 저장소 단위로 정리하고 있습니다.  
-단순히 모델 성능을 확인하는 데 그치지 않고, **문제 정의, 데이터 전처리, 실험 구조 설계, 그리고 실제 서비스 형태의 구현까지 연결하는 과정**에 관심이 있습니다.
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jaebaek+Oh;AI+Engineer+%7C+Cloud+Enthusiast;Sunchon+National+University)](https://github.com/JaeBaek5)
 
-## Research Interests
-- Agricultural AI
-- Computer Vision
-- Edge AI
-- Applied Machine Learning
-- AI-based Service Design
+<br/>
 
-## Current Focus
-- 작물 및 생육 데이터 기반의 분류·예측 문제 탐구
-- 실제 환경을 고려한 경량 모델 및 엣지 추론 구조 실험
-- 데이터, 모델, 서비스 구현을 연결하는 응용 AI 시스템 설계
-- 자연어 인터페이스와 추천 구조를 포함한 사용자 지향형 AI 서비스 탐색
+[![Gmail](https://img.shields.io/badge/ojaebaek%40gmail.com-C9A84C?style=flat-square&logo=gmail&logoColor=white)](mailto:ojaebaek@gmail.com)
+[![GitHub](https://img.shields.io/badge/JaeBaek5-D4AF37?style=flat-square&logo=github&logoColor=white)](https://github.com/JaeBaek5)
+[![Velog](https://img.shields.io/badge/ojaebaek-C9A84C?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ojaebaek)
+
+</div>
 
 ---
 
-## Selected Projects
+## 🪙 About Me
 
-### Agricultural AI / Machine Learning
-- **[tomato-ml](https://github.com/JaeBaek5/tomato-ml)**  
-  토마토 생육 단계 분류와 머신러닝 실험을 정리한 저장소입니다.
+```yaml
+Name     : 오재백 (Jaebaek Oh)
+School   : 순천대학교 인공지능공학부 4학년
+Focus    : Agricultural AI · Computer Vision · Edge AI · Cloud AI
+Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
+```
 
-### AI Service / Recommendation System
-- **[Coding_Marathon](https://github.com/JaeBaek5/Coding_Marathon)**  
-  자연어 요청과 위치 정보를 바탕으로 조건을 추출하고, 경로·예산·리뷰 근거를 조합해 식당을 추천하는 AI Agent 웹앱입니다.
-
-### Mobile / Applied App Development
-- **Private Project: dodak**  
-  반려동물 케어 플랫폼의 모바일 앱 프로젝트입니다.
-
-- **Private Project: ink**  
-  필압과 기울기 메타데이터를 활용한 필기 렌더링 앱 프로젝트입니다.
-
-### Web / Backend
-- **Private Project: dodak_web**  
-  반려동물 케어 플랫폼의 웹 서비스 저장소입니다.
-
-### Data / DBMS Practice
-- **[nosql-study](https://github.com/JaeBaek5/nosql-study)**  
-  NoSQL 수업 과제와 순천시 신호등 OpenData DBMS 실습 자료를 정리한 저장소입니다.
-
-### Systems / Low-level Practice
-- **[systems-programming](https://github.com/JaeBaek5/systems-programming)**  
-  어셈블리 언어와 시스템 프로그래밍 실습 자료를 정리한 저장소입니다.
+> 실제 환경의 문제를 데이터와 모델링으로 해석하고, 동작하는 시스템으로 구현하는 과정에 관심이 있습니다.  
+> 문제 정의 → 데이터 전처리 → 실험 설계 → 실제 서비스 구현까지 연결하는 Applied AI를 지향합니다.
 
 ---
 
-## Tech Stack
+## 🪙 Research Interests
 
-### Languages
-`Python` `JavaScript` `Dart` `SQL` `C` `R`
-
-### Frameworks & Tools
-`Flutter` `Svelte` `Express` `FastAPI` `PyTorch` `MariaDB` `Raspberry Pi` `Unity`
-
----
-
-## Links
-- GitHub: [JaeBaek5](https://github.com/JaeBaek5)
-- Velog: [ojaebaek](https://velog.io/@ojaebaek)
+![Agricultural AI](https://img.shields.io/badge/Agricultural_AI-C9A84C?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-D4AF37?style=flat-square&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-C9A84C?style=flat-square&logoColor=white)
+![Applied ML](https://img.shields.io/badge/Applied_Machine_Learning-D4AF37?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-C9A84C?style=flat-square&logoColor=white)
+![Cloud AI](https://img.shields.io/badge/Cloud_AI-D4AF37?style=flat-square&logoColor=white)
 
 ---
 
-## Notes
-이 프로필은 수업, 실습, 개인 프로젝트, 그리고 관심 연구 주제를 함께 정리하는 공간입니다.  
-앞으로도 데이터 기반 문제 해결과 실제 환경에서 동작하는 AI 시스템 구현 경험을 지속적으로 축적해 나가고자 합니다.
+## 🪙 Tech Stack
+
+**Cloud & AI**
+
+![AWS](https://img.shields.io/badge/AWS-C9A84C?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-D4AF37?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-C9A84C?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-D4AF37?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-C9A84C?style=flat-square&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-D4AF37?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-C9A84C?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=flat-square&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-C9A84C?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-D4AF37?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-C9A84C?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-D4AF37?style=flat-square&logo=r&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-C9A84C?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-D4AF37?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-C9A84C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C9A84C?style=flat-square&logo=git&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-D4AF37?style=flat-square&logo=mariadb&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C9A84C?style=flat-square&logo=raspberrypi&logoColor=white)
+
+---
+
+## 🪙 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaeBaek5&show_icons=true&theme=default&title_color=C9A84C&icon_color=D4AF37&text_color=333&bg_color=FDFAF2&border_color=C9A84C&hide_border=false"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBaek5&layout=compact&title_color=C9A84C&text_color=333&bg_color=FDFAF2&border_color=C9A84C"/>
+
+<br/>
+
+![Streak](https://streak-stats.demolab.com?user=JaeBaek5&theme=default&ring=C9A84C&fire=D4AF37&currStreakLabel=C9A84C&sideLabels=888&dates=888&background=FDFAF2&border=C9A84C)
+
+</div>
+
+---
+
+## 🪙 Selected Projects
+
+| 프로젝트 | 설명 | 분야 |
+|---------|------|------|
+| **[tomato-ml](https://github.com/JaeBaek5/tomato-ml)** | 토마토 생육 단계 분류 및 머신러닝 실험 | Agricultural AI |
+| **[Coding_Marathon](https://github.com/JaeBaek5/Coding_Marathon)** | 자연어 기반 식당 추천 AI Agent 웹앱 | AI Service |
+| **[nosql-study](https://github.com/JaeBaek5/nosql-study)** | NoSQL 실습 및 순천시 OpenData DBMS 분석 | Data / DBMS |
+| **[systems-programming](https://github.com/JaeBaek5/systems-programming)** | 어셈블리 및 시스템 프로그래밍 실습 | Low-level |
+| **dodak** *(private)* | 반려동물 케어 플랫폼 모바일 앱 | Mobile |
+| **ink** *(private)* | 필압·기울기 메타데이터 활용 필기 렌더링 앱 | Mobile |
+
+---
+
+<div align="center">
+
+*✦ &nbsp; Data → Model → System → Service &nbsp; ✦*
+
+</div>
