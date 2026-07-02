@@ -45,12 +45,13 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 **Cloud & AI**
 
-![AWS](https://img.shields.io/badge/AWS-C9A84C?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-D4AF37?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-C9A84C?style=flat-square&logo=amazonec2&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-D4AF37?style=flat-square&logo=amazons3&logoColor=FF9900)
-![CloudFront](https://img.shields.io/badge/CloudFront-C9A84C?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![API Gateway](https://img.shields.io/badge/API_Gateway-D4AF37?style=flat-square&logo=amazonaws&logoColor=FF9900)
+[![skillicons](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+
+![Bedrock](https://img.shields.io/badge/Bedrock-C9A84C?style=flat-square)
+![EC2](https://img.shields.io/badge/EC2-D4AF37?style=flat-square)
+![S3](https://img.shields.io/badge/S3-C9A84C?style=flat-square)
+![CloudFront](https://img.shields.io/badge/CloudFront-D4AF37?style=flat-square)
+![API_Gateway](https://img.shields.io/badge/API_Gateway-C9A84C?style=flat-square)
 
 **Languages**
 
