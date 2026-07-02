@@ -45,13 +45,12 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 
 **Cloud & AI**
 
-[![skillicons](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
-
-![Bedrock](https://img.shields.io/badge/Bedrock-CEB15E?style=flat-square)
-![EC2](https://img.shields.io/badge/EC2-D8B74B?style=flat-square)
-![S3](https://img.shields.io/badge/S3-CEB15E?style=flat-square)
-![CloudFront](https://img.shields.io/badge/CloudFront-D8B74B?style=flat-square)
-![API_Gateway](https://img.shields.io/badge/API_Gateway-CEB15E?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![API_Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 
 **Languages**
 
@@ -60,8 +59,7 @@ Training : 2026 에이전틱 AI 부트캠프 (메가존클라우드)
 **Frameworks & Tools**
 
 [![skillicons](https://skillicons.dev/icons?i=flutter,fastapi,pytorch,firebase,supabase,docker,git,raspberrypi&theme=light)](https://skillicons.dev)
-
-![MariaDB](https://img.shields.io/badge/MariaDB-D8B74B?style=flat-square&logo=mariadb&logoColor=003545)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ---
 
