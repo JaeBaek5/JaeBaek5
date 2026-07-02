@@ -91,14 +91,17 @@
 
 ## 🪙 주요 프로젝트
 
-| 프로젝트 | 설명 | 분야 |
-|---------|------|------|
-| **[tomato-ml](https://github.com/JaeBaek5/tomato-ml)** | 토마토 생육 단계 분류 및 머신러닝 실험 | Agricultural AI |
-| **[Coding_Marathon](https://github.com/JaeBaek5/Coding_Marathon)** | 자연어 기반 식당 추천 AI Agent 웹앱 | AI Service |
-| **[nosql-study](https://github.com/JaeBaek5/nosql-study)** | NoSQL 실습 및 순천시 OpenData DBMS 분석 | Data / DBMS |
-| **[systems-programming](https://github.com/JaeBaek5/systems-programming)** | 어셈블리 및 시스템 프로그래밍 실습 | Low-level |
-| **dodak** *(private)* | 반려동물 케어 플랫폼 모바일 앱 | Mobile |
-| **ink** *(private)* | 필압·기울기 메타데이터 활용 필기 렌더링 앱 | Mobile |
+| 프로젝트 | 설명 | 스택 | 분야 |
+|---------|------|------|------|
+| **[Coding_Marathon](https://github.com/JaeBaek5/Coding_Marathon)** | 멀티 에이전트 기반 음식점 추천 웹앱 (Svelte + Express) | JavaScript | AI 서비스 |
+| **[tomato-ml](https://github.com/JaeBaek5/tomato-ml)** | 토마토 생육 단계 분류 — MobileNetV2 파인튜닝 및 반복 실험 | Python | 농업 AI |
+| **[nosql-study](https://github.com/JaeBaek5/nosql-study)** | NoSQL 실습 및 순천시 신호등 OpenData DBMS 분석 | JavaScript | 데이터 / DBMS |
+| **[agri-r-practice](https://github.com/JaeBaek5/agri-r-practice)** | R 언어 통계 분석 및 웹프로그래밍 수업 실습 자료 | R | 데이터 분석 |
+| **[systems-programming](https://github.com/JaeBaek5/systems-programming)** | 어셈블리 언어 및 시스템 프로그래밍 실습 | C | 시스템 |
+| **[unity-shader-experiments](https://github.com/JaeBaek5/unity-shader-experiments)** | Unity 셰이더 실험 및 그래픽스 실습 | ShaderLab | 그래픽스 |
+| **dodak** *(private)* | 반려동물 케어 플랫폼 모바일 앱 | Dart / Flutter | 모바일 |
+| **ink** *(private)* | 필압·기울기 메타데이터 활용 필기 렌더링 앱 | Dart / Flutter | 모바일 |
+| **nong_ai** *(private)* | 농업 AI 프로젝트 | - | 농업 AI |
 
 ---
 
