@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/JaeBaek5.png" width="120" style="border-radius:50%"/>
 
 <br/>
 
